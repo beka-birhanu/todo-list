@@ -12,7 +12,9 @@ This is a simple Todo List application built with HTML, CSS, and JavaScript. It 
 
 Visit [Todo List Application](https://beka-birhanu.github.io/todo-list/) in your web browser to start the application.
 
-## Usage
+## Screenshot
+
+[Screenshot](./screenshot/Screenshot from 2024-08-05 09-49-01.png)
 
 ## Usage
 
