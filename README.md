@@ -14,7 +14,7 @@ Visit [Todo List Application](https://beka-birhanu.github.io/todo-list/) in your
 
 ## Screenshot
 
-[Screenshot](./screenshot/Screenshot from 2024-08-05 09-49-01.png)
+![Screenshot](./screenshot/Screenshot from 2024-08-05 09-49-01.png)
 
 ## Usage
 
